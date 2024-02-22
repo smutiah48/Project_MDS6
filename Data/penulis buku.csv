@@ -1,0 +1,520 @@
+id_penulis,nama_penulis,id_penerbit
+PN001,Muhammad Fuad,PE001
+PN001,Muhammad Fuad,PE001
+PN002,Wico J Tarigan,PE002
+PN002,Wico J Tarigan,PE003
+PN002,Wico J Tarigan,PE003
+PN003,Nugroho B. Sukamdani,PE003
+PN003,Nugroho B. Sukamdani,PE003
+PN004,Paulias Matane,PE004
+PN005,Djokosantosom,PE005
+PN005,Djokosantosom,PE005
+PN005,Djokosantosom,PE005
+PN006,Wahyu Sudarmadi,PE005
+PN007,Napoleon Hill,PE005
+PN008,Orison Swett Marden,PE006
+PN009,Frank Farrington,PE006
+PN010,Victoria Ring,PE006
+PN011,Deborah Bouchoux,PE007
+PN012,Hendrik Lim,PE007
+PN013,Steven Primm,PE008
+PN013,Steven Primm,PE009
+PN014,Yudha Yudhanto,PE010
+PN014,Yudha Yudhanto,PE011
+PN015,Edward Streeter,PE012
+PN016,Christopher M. Byron,PE012
+PN016,Christopher M. Byron,PE012
+PN017,Brendan Kane,PE012
+PN018,Elias St Elmo Lewis,PE013
+PN018,Elias St Elmo Lewis,PE014
+PN019,Ed Nijssen,PE015
+PN019,Ed Nijssen,PE016
+PN020,James M. Kouzes,PE017
+PN021,William Yang,PE017
+PN022,Gregory Smith,PE017
+PN023,Leonard S. Johnson,PE018
+PN024,Xiaoming Zhu,PE019
+PN025,David R. Campbell,PE020
+PN026,Qun G. Jiao,PE021
+PN027,Paula Singleton,PE022
+PN028,Mary V. Campbell,PE023
+PN029,Gusti Ketut Purnaya,PE024
+PN030,Budi Hartono,PE025
+PN031,Syahirman Yusi,PE026
+PN032,Fatkhudin Aziz,PE027
+PN033,Abdul Rasyid,PE027
+PN034,Lailatus Sa'adah,PE028
+PN035,Cherry L. Hadikusumo,PE029
+PN036,Syamsul Bahri,PE030
+PN037,Muhammad Haldy,PE031
+PN038,Lily Rahmawati Harahap,PE032
+PN039,Isnaini Mahuda,PE033
+PN039,Isnaini Mahuda,PE033
+PN040,Osi Hayuni Putri,PE033
+PN040,Osi Hayuni Putri,PE033
+PN041,Zaki Mubarak,PE033
+PN042,Iskandar Putong,PE033
+PN043,Indra Mahardika Putra,PE033
+PN044,Yani Dahliani,PE033
+PN045,Musriha,PE033
+PN046,Asnidar,PE033
+PN047,Putu Yunartha Pradnyana Putra,PE033
+PN048,Quraish Shihab,PE033
+PN048,Quraish Shihab,PE033
+PN049,Ferdinandus Sampe Junaida,PE033
+PN050,Henricus W. Ismanthono,PE033
+PN051,Sukamdani S. Gitosardjono,PE034
+PN052,Patrick T. Pruitt,PE035
+PN053,Afief El Ashfahany,PE036
+PN054,T. Guritno,PE037
+PN055,Sri Adiningsih,PE038
+PN056,Azharsyah Ibrahim,PE039
+PN057,Blasius Erik Sibarani,PE039
+PN058,Walter A. Friedman,PE039
+PN059,Raden Arief Setyawan,PE039
+PN060,Paul Edwards,PE039
+PN061,Andreas Budihardjo,PE039
+PN062,Anis Muftias,PE039
+PN062,Anis Muftias,PE039
+PN063,Ahmad Fauzan Fadlan,PE039
+PN064,Raden Andi Sularso,PE039
+PN065,Irwan,PE039
+PN066,Meily Kurniawidjadja,PE039
+PN067,Atma Endris,PE039
+PN068,Charles Surjadi,PE040
+PN069,Yunita Amraeni,PE041
+PN070,Nasrudin Andi Mappaware,PE042
+PN071,Riris Andono Ahmad,PE043
+PN072,Rahmawati,PE044
+PN073,Herawanto,PE045
+PN073,Herawanto,PE046
+PN074,Jeini Ester Nelwan,PE047
+PN075,Hapsara Habib Rachmat,PE048
+PN076,Alexander Lucas Slamet Ryadi,PE049
+PN077,Deka Raiyan,PE050
+PN077,Deka Raiyan,PE051
+PN078,Nurbaety,PE052
+PN079,Stefanus Supriyanto,PE052
+PN080,Fariza Liana,PE052
+PN081,Atiek Murharyati,PE052
+PN082,Riant Nugroho,PE052
+PN083,Bambang Sugeng Ariadi,PE052
+PN084,Elanda Fikri,PE053
+PN085,Fikki Prasetya,PE053
+PN086,Suhariono,PE054
+PN087,Endang Sutisna Sulaiman,PE054
+PN088,Ayu Laili Rahmiyati,PE054
+PN089,Riant Nugroho,PE054
+PN090,Rachmawaty,PE054
+PN091,Febri Endra Budi Setyawan,PE055
+PN092,Santosa Giriwijoyo,PE056
+PN093,Dyah Pradnya Paramita Duarsa,PE056
+PN094,Hariati Lestari,PE056
+PN095,Tri  Wiyatini,PE056
+PN096,Adhinda Putri Pratiwi,PE056
+PN097,Toto Sugiarto dkk,PE056
+PN098,Nur Arifatus Sholihah,PE056
+PN099, Arum Dian Pratiwi,PE056
+PN100,Mudyawati Kamaruddin,PE056
+PN101,Kori Puspita Ningsih,PE056
+PN102,Inggit Primadevi,PE056
+PN103,M. Fuad Nasar,PE056
+PN104,Garda Maeswara,PE057
+PN105,Widiarto,PE058
+PN106,Wilaela,PE059
+PN107,Noor Anggraito,PE060
+PN108,RIKA AFRIANA RABIAH,PE061
+PN109,Atisah,PE061
+PN110,ARIYANI HERMAIYAH,PE062
+PN111,SUJAI FADIL,PE063
+PN112,Gilad James,PE064
+PN113,Azhari Akmal Tarigan,PE064
+PN114,Muhammad Abdullah Enan,PE064
+PN115,Luqman Al Hakim,PE064
+PN116,DWI SUSANTI,PE065
+PN117,Sili Suli,PE066
+PN118,Isbedy Stiawan ZS,PE066
+PN119,Ahmad Nabil Amir,PE066
+PN120,Onnie Lumintang,PE067
+PN121,Rajab Ritonga,PE068
+PN122,Abdul Aziz bin Abdullah bin Baaz,PE069
+PN123,Nurul Jannah,PE070
+PN124,Ridwan Saidi,PE070
+PN125,Muhammad Ali Fakih,PE070
+PN126,Ulinuha Rosyadi,PE070
+PN127,Ali Muhammad Ash-Shalabi,PE071
+PN127,Ali Muhammad Ash-Shalabi,PE071
+PN128,Salman S. Karya Purnama,PE071
+PN129,Abu Utsman Kharisman,PE071
+PN130,Muhammad ElBrahimy,PE071
+PN131,Ading Kusdiana,PE071
+PN132,Wawan Hernawan,PE072
+PN133,Imam Abu Husain Muslim,PE073
+PN134,Sori Siregar,PE073
+PN134,Sori Siregar,PE074
+PN135,Greg Barton,PE075
+PN136,Pena Kreativa,PE076
+PN137,PDAT,PE077
+PN138,Saifuddin Ishak,PE078
+PN139,Siddhartha Mukherjee,PE079
+PN140,Anang Susetya,PE080
+PN141,Alo Liliweri,PE081
+PN142,Muliadi,PE081
+PN143,Ferry Hidayat,PE082
+PN144,Fuad Abdul Hamied,PE083
+PN145,Jonar T.H. Situmorang,PE084
+PN146,Agus Purwadi,PE085
+PN147,Ahmad Subhi Saleh,PE086
+PN148,Imam Wahyuddin,PE087
+PN149,Yulianto,PE088
+PN150,Aliet Noorhayati Sutisno,PE089
+PN151,Sri Nurabdiah Pratiwi,PE090
+PN152,Nurdin K,PE091
+PN153,Juita Paujiah,PE092
+PN154,Oong Komar ,PE092
+PN155,I Gusti Kade Budhi Harryarsana,PE093
+PN156,Sutarjo Adisusilo J.R.,PE094
+PN157,Muhammad Syukri Albani Nasution,PE094
+PN158,Darji Darmodiharjo,PE095
+PN159,Gilles Deleuze,PE096
+PN160,Apollo,PE096
+PN161,G. Moedjanto,PE096
+PN162,Sutrisna Wibawa,PE096
+PN163,Toho Cholik Mutohir,PE096
+PN164,Made Subawa,PE096
+PN165,Ahmad Taufik  Nasution,PE096
+PN166,Made Subawa,PE096
+PN167,Sunoto,PE096
+PN168,Welhendri Azwar  dan Muliono,PE096
+PN169,Zafrulkhan,PE096
+PN170,Theo Huijbers,PE096
+PN171,Walter Carlsnaes,PE097
+PN172,Antonius Cahyadi E,PE098
+PN173,Fattah Hanurawan,PE099
+PN174,Aliet Noorhayati Sutisno,PE100
+PN175,Mochtar Effendy,PE101
+PN176,Frederick Copleston,PE102
+PN177,J. W. M. Bakker SJ.,PE103
+PN178,Friedrich Engels,PE103
+PN179,Fernando M. Manullang,PE103
+PN180,F. Budi Hardiman,PE103
+PN181,E.Hayati,PE103
+PN182,Retno Widyani ,PE103
+PN183,Fajlurrahman Jurdi,PE103
+PN184,Aminuddin Ilmar,PE103
+PN185,Teuku Saiful Bahri Johan,PE103
+PN186,Benediktus Hestu Cipto Handoyo,PE103
+PN187,Rozikin Daman,PE103
+PN188,Muhammad Afdhal Askar,PE103
+PN189,Sugiaryo,PE103
+PN190,Titik Triwulan Tutik,PE103
+PN191,Ibnu Sam Widodo,PE103
+PN192,Otong Rosadi,PE103
+PN193,Johan Jasin,PE103
+PN194,Soehino,PE103
+PN195,Muhammad Tahir Azhary,PE104
+PN196,Bambang Suparno,PE105
+PN197,A. Sakti Ramdhon Syah R.,PE105
+PN198,Ni Ketut Sari Adnyani,PE106
+PN199,Ni'matul Huda,PE106
+PN200,Mexsasai Indra,PE107
+PN201,Faisal Akbar Nasution,PE108
+PN202,Sunarto,PE109
+PN203,Christine S. T. Kansil,PE109
+PN204,Jimly Asshiddiqie,PE109
+PN204,Jimly Asshiddiqie,PE109
+PN205,Muhammad Ardhi Razaq Abqa,PE110
+PN206,Bagir Manan,PE110
+PN207,Moh. Mahfud M. D.,PE110
+PN208,Benediktus Hestu Cipto Handoyo,PE110
+PN209,Hendra Nurtjahjo,PE110
+PN210,Paisol Burlian,PE111
+PN211,Titik Triwulan Tutik,PE112
+PN212,Jimly Asshiddiqie,PE113
+PN213,Lintje Anna Marpaung,PE114
+PN214,Citranu Citranu,PE115
+PN215,Ecep Nurjamal,PE116
+PN216,Herman Sihombing,PE117
+PN217,Jayanti Puspitaningrum,PE118
+PN218,Dede Ika Murofikoh,PE119
+PN219,K.H. Afifuddin Muhajir,PE120
+PN220,Muller,PE121
+PN221,Fromm,PE122
+PN222,Pieter Bleeker,PE123
+PN223,Martinus Houttuyn,PE124
+PN223,Martinus Houttuyn,PE125
+PN224,Biblioteek,PE126
+PN225,Friedrich Schoedler,PE127
+PN226,Georg Christian Raff,PE128
+PN227,Carolus Linnaeus,PE129
+PN228,Franz Wilhelm Junghuhn,PE130
+PN229,Martinus Houttuyn,PE131
+PN229,Martinus Houttuyn,PE132
+PN230,Daniel David Veth,PE133
+PN231,Taco Brans,PE134
+PN232,Friedrich Schoedler,PE135
+PN233,Jean Antoine Nollet,PE136
+PN233,Jean Antoine Nollet,PE137
+PN234,P. J. Godefroy,PE138
+PN235,Joannes Le Francq van Berkhey,PE139
+PN236,Charles Darwin,PE140
+PN236,Charles Darwin,PE141
+PN237,Kebun Raya Indonesia,PE142
+PN238,Martinus Houttuyn,PE143
+PN239,Hollandsche Maatschappij der Wetenschappen,PE144
+PN240,Joannes Francq van Berkhey,PE145
+PN240,Joannes Florentius Martinet,PE146
+PN241,Antonie van Leeuwenhoek,PE147
+PN242,George Louis Leclerc Buffon,PE148
+PN243,Roelf Gerrit Rijkens,PE149
+PN244,Sipman (Docteur),PE150
+PN245,Georg Eberhard Rumpf,PE151
+PN246,Joannes Le Francq van Berkhey,PE152
+PN247,Guilielmus Petrus Ende,PE153
+PN248,Robertus Henricus Dijkgraaf,PE154
+PN248,Robertus Henricus Dijkgraaf,PE155
+PN249,Matthijs Salverda,PE156
+PN250,Roelf Gerrit Rijkens,PE157
+PN251,Bill Bryson,PE158
+PN251,Bill Bryson,PE159
+PN252,Matthijs Salverda,PE160
+PN253,Andi Jumardi,PE161
+PN254,Fatwa Ramdani,PE162
+PN255,Yaya Heryadi,PE163
+PN256,HARUN SAMSUDIN,PE164
+PN257,Fatwa Ramdani,PE165
+PN258,Rolly Maulana Awangga,PE166
+PN259,Abdul Wahid Hasyim,PE167
+PN260,Muhammad Dimyati,PE168
+PN261,Herika Muhamad Taki,PE169
+PN262,Sumbangan Baja,PE170
+PN263,Anita Sitawati Wartaman,PE171
+PN264,Dadang Tri Atmoko,PE172
+PN265,Jumadi,PE173
+PN266,Wiryono Priyotamtama,PE174
+PN267,Danardono,PE175
+PN268,Sutikno,PE176
+PN269,Agil Akbar Fahrezi,PE177
+PN270,Suprapto Dibyosaputro,PE178
+PN271,Bachtiar Wahyu Mutaqin,PE179
+PN272,Saumi Setyaningrum,PE180
+PN273,I Made Andi Arsana,PE181
+PN274,Conie Wishnu W,PE182
+PN275,Vidya Setyaningrum,PE183
+PN276,Mawar Mawar,PE184
+PN277,FRITZ HOTMAN SYAHMAHITA DAMANIK,PE185
+PN278, Abdul Rahman,PE186
+PN279,Bimo Sasongko,PE187
+PN280,Agung Purnomo,PE188
+PN281,Wahida Annisa Yusuf,PE189
+PN282,Syamsu Rijal,PE190
+PN283,Abu Bakar Sambah,PE191
+PN284,ARYO DEWANTARA,PE192
+PN285,Indarto,PE193
+PN286,Mia Siti Aminah,PE194
+PN287,IDA AYU SURYASIH,PE195
+PN288,Anastasia suci Sukmawati,PE196
+PN289,Muhammad Sood,PE197
+PN290,Noor Alis Setiyadi,PE198
+PN291,Ahmad Muhtadi,PE199
+PN292,Bambang Riyanto Trilaksono,PE200
+PN293,Waston,PE201
+PN294,Paul Ricoeur,PE202
+PN295,Waston,PE203
+PN296,Helena Lina Susilawati,PE204
+PN297,Anicetus Wihardjaka,PE205
+PN298,Michael Sastrapratedja,PE206
+PN299,Yunita T. Winarto,PE207
+PN300,Rahayu S. Hidayat,PE208
+PN301,Ignas Kleden,PE209
+PN302,Willem Molen,PE210
+PN303,Bernardus Rahmanto,PE211
+PN304,Roeslan Abdulgani,PE212
+PN304,Roeslan Abdulgani,PE213
+PN305,Riris K. Sarumpaet,PE214
+PN306,William Osler,PE215
+PN307,Patrick Suppes,PE216
+PN307,Patrick Suppes,PE217
+PN308,Klaus Mainzer,PE218
+PN308,Klaus Mainzer,PE219
+PN309,Kadir H. Din,PE220
+PN310,Herman C. Kemp,PE221
+PN311,Misri A. Muchsin,PE222
+PN312,Justin Watkins,PE223
+PN313,Jeremy Seymour Eades,PE224
+PN314,S. Nawiyanto,PE225
+PN315,Julian Millie,PE226
+PN316,Yoenita Jayadisastra,PE227
+PN317,Mulaika Hijjas,PE228
+PN318,V. I. Braginski,PE229
+PN319,Shinji Yamashita,PE230
+PN320,Hayu Lusianawati,PE231
+PN321,Garcia Krisnando Nathanael,PE232
+PN322,Wah Kam Ho,PE233
+PN322,Wah Kam Ho,PE234
+PN323,J. Francisco B. Benitez,PE235
+PN324,Klaus Mainzer,PE236
+PN325,Ulfia,PE237
+PN326,Abdul Muqit,PE238
+PN327,Klaus Mainzer,PE239
+PN328,Stephen Jay Gould,PE240
+PN329,Tatik Yuniarti,PE241
+PN330,Vedi R. Hadiz,PE242
+PN331,Ida Bagus Made Astawa,PE243
+PN332,Bety Diana Serly Hetharion,PE244
+PN333,Utami Pratiwi,PE245
+PN334,Muhamad Supraja,PE246
+PN335,James S. Coleman,PE247
+PN336,Mohammad Kamaludin,PE248
+PN337,Wuri Nugraeni,PE249
+PN338,Zulkarnain Lubis,PE250
+PN339,Lawrence M. Friedman,PE251
+PN340,Azhar Ibrahim,PE252
+PN341,Basuki Darsono,PE253
+PN342,Ferry Jie,PE254
+PN343,Tulus Suryanto,PE255
+PN344,Nicolaas Arie Wilterdink,PE256
+PN345,Soedjatmoko,PE257
+PN346,Jeronimo de Bosch Kemper,PE258
+PN347,Deny Setiawan,PE259
+PN348,Abdul Talib Bon,PE260
+PN349,Gabrial van den Brink,PE261
+PN350,Jeronimo Bosch Kemper,PE262
+PN351,Yulianto Yulianto,PE263
+PN352,D. Embden,PE264
+PN353,Jean Anker,PE265
+PN354,Hans Dagevos,PE266
+PN355,Geert Munnichs,PE266
+PN356,Henry Thomas Buckle,PE267
+PN357,Resista Vikaliana,PE267
+PN358,Christopher Hitchens,PE268
+PN359,Stefan R. Landsberger,PE269
+PN360,Jared Diamond,PE269
+PN361,Jaap van Donselaar,PE269
+PN362,Erik Brynjolfsson,PE269
+PN363,Hendrik Jan Heeren,PE269
+PN364,Peter R. Rodrigues,PE269
+PN364,Peter R. Rodrigues,PE269
+PN364,Peter R. Rodrigues,PE269
+PN365,Joannes Le Francq van Berkhey,PE269
+PN366,Georg Christian Raff,PE269
+PN367,Sri Nurabdiah Pratiwi,PE269
+PN368,Paulo Freire,PE269
+PN369,Ibnu Husen Rahmatullah,PE269
+PN369,Ibnu Husen Rahmatullah,PE269
+PN370,Pendidikan.id,PE270
+PN370,Pendidikan.id,PE270
+PN370,Pendidikan.id,PE270
+PN371,Erwin Kusumastuti,PE271
+PN372,Penulis tidak tersedia,PE272
+PN373,Otoriteit Dachi,PE272
+PN374,Laros Tuhuteru,PE273
+PN375,Johanes Eka Priyatma,PE274
+PN376,Aliet Noorhayati Sutisno,PE274
+PN377,Penulis tidak tersedia,PE274
+PN378,Teguh Triwiyanto,PE274
+PN379,Ahmad Minan Zuhri,PE275
+PN379,Ahmad Minan Zuhri,PE275
+PN380,Yahya Hairun,PE276
+PN381,Benni Setiawan,PE276
+PN382,Nur Kholidah Nasution ,PE277
+PN383,Nana Suryana,PE277
+PN384,Riswadi,PE277
+PN385,Irwan Sutiawan,PE277
+PN386,Lestari Asih Partiwi,PE277
+PN387,Jakub saddam akbar,PE277
+PN388,A. Rusdiana,PE278
+PN389,Husamah,PE278
+PN390,Syukurman,PE279
+PN391,Bambang Agus Susetyo ,PE280
+PN392,Zelhendri Zen,PE280
+PN393,Nofrion,PE281
+PN394,Amos Neolaka,PE281
+PN395,Aswasulasikin,PE282
+PN396,Yadi Ruyadi,PE283
+PN397,Gita Anggraini,PE284
+PN398,Elya Siska Anggraini,PE285
+PN399,Astin Lukum,PE285
+PN400,Syaiful sagala,PE285
+PN401,Rosidin,PE285
+PN402,Hasruddin Dute,PE286
+PN403,Wrini Harlindi,PE287
+PN404,Ihab Majid,PE287
+PN405,Kim Hyeon-Min,PE287
+PN406,Asep Usman Ismail,PE288
+PN407,Elizabeth Roy,PE288
+PN408,Soon Eun Jeong,PE288
+PN409,Hengki Irawan Setia Budi,PE289
+PN410,Eagle OSeven,PE289
+PN411,Adi Suprayitno ,PE290
+PN412,Dian Permana,PE290
+PN413,Nilam Widyarini,PE291
+PN414,Tim Pengasuh Rubrik,PE291
+PN415,Kadek Yoga Pramartha,PE292
+PN416, Ridwan,PE293
+PN417,Zainal Aqib,PE293
+PN418,Kim Mal-Ga ,PE294
+PN419,Margriet Sitskoorn,PE294
+PN420,RESDIONO,PE294
+PN421,Ahmad Dzikran,PE294
+PN422,Safrudin,PE294
+PN423,Ketut Dharsana,PE294
+PN424,Sudirman Anwar,PE295
+PN425,Wrini Harlindi,PE296
+PN426,Herry Prasetyo,PE296
+PN427,Ahmad Jawahir,PE296
+PN428,Al Danks,PE297
+PN429,Sudarwan Danim,PE298
+PN430,Bahrudin,PE299
+PN431,IRFAN FADHLULLAH,PE300
+PN432,Dewi Indra Puspitasari,PE301
+PN433,KIM JEONG HONG,PE302
+PN434,DANIEL NUGROHO,PE302
+PN435,Robert Maurer,PE302
+PN435,Robert Maurer,PE302
+PN436,HARI LAKSANA,PE302
+PN437,Penulis tidak tersedia,PE302
+PN438,Eagle Oseven,PE302
+PN439,Doni Koesoema A,PE302
+PN439,Doni Koesoema A,PE303
+PN440,Maria Josephine Wantah,PE303
+PN441,Nurussakinah Daulay,PE303
+PN442,Ni'matuzahroh,PE303
+PN443,Rahmah Hastuti,PE304
+PN444,Sukatin,PE304
+PN444,Sukatin,PE305
+PN445,Fredericksen Victoranto Amseke,PE306
+PN446,Imammul Insan,PE307
+PN447,TIM PENULIS IKATAN PSIKOLOGI PERKEMBANGAN INDONESIA ,PE308
+PN448,Jonathan A. Smith,PE308
+PN449,Penulis tidak tersedia,PE308
+PN450,Penulis tidak tersedia,PE308
+PN451,Jarman Arroisi,PE308
+PN452,Fattah Hanurawan,PE308
+PN453,Matt Jaarvis,PE309
+PN454,Jeffrey S. Nevid,PE309
+PN454,Jeffrey S. Nevid,PE310
+PN455,I Wayan Candra,PE311
+PN456,Cinintya Dewi,PE312
+PN457,Juneman,PE312
+PN458,Eva Meizara,PE312
+PN459,Stefano Calicchio,PE312
+PN460,Fudyartanto,PE312
+PN461,Taufik Hidayat,PE312
+PN462,Faifda Ariani,PE312
+PN463,Yudrik Jahja,PE312
+PN464,Kalam Hanan,PE312
+PN465,Penulis tidak tersedia,PE313
+PN466,Stefano Calicchio,PE314
+PN467,Albertine Minderop,PE315
+PN468,Hairunnaja Najmuddin,PE316
+PN469,Nur Fatwikiningsih,PE317
+PN470,Erich Fromm,PE317
+PN471,Stefanus M. Marbun,PE318
+PN472,Afi Parnawi ,PE318
+PN472,Afi Parnawi ,PE319
+PN473,alwisol,PE320
+PN474,LUTHFIYAH MAZIDAH,PE320
+PN475,Anugrah Novianti,PE320
+PN476,Zulfan,PE320
+PN477,Nurodin,PE320
