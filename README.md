@@ -34,7 +34,7 @@ Project akhir mata kuliah Manajemen Data Statistika mengambil topik tentang buku
 ## :📸 Screenshot
 
 <p align="center">
-  <img width="800" height="500" src="https://github.com/smutiah48/Project_MDS6/blob/main/scr/Tampilan%20awal.png">
+  <img width="750" height="500" src="https://github.com/smutiah48/Project_MDS6/blob/main/scr/Tampilan%20awal.png">
 </p>
 
 ## 🎬 Demo
