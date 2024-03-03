@@ -1,3 +1,9 @@
+<p align="center">
+  <img width="400" height="143" src="https://drive.google.com/file/d/1qGA564ilOd4vsoRIW7iYUl46pmqd9Q9H/view?usp=sharing">
+</p>
+
+<div align="center">
+  
 # Project_MDS6
 Repository ini merupakan peoject tugas akhir UTS STA1562
 
