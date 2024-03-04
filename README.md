@@ -56,7 +56,7 @@ Dokumentasi penggunaan aplikasi database. ..........
 
 Menggambarkan struktur *primary key* **buku**, **penulis**, **penerbit** dan **kategori** dengan masing-masing *foreign key* dalam membangun relasi antara tabel atau entitas.
 <p align="center">
-  <img width="600" height="400" src="https://github.com/smutiah48/Project_MDS6/blob/main/Skema.jpg">
+  <img width="600" height="400" src="https://github.com/smutiah48/Project_MDS6/blob/main/scr/SKEMA%20Kel%206.jpg">
 </p>
 
 ## 📈 ERD
