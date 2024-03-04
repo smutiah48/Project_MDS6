@@ -173,6 +173,6 @@ select * from buku
 ## 👨‍💻 Tim Pengembang
 
 - Frontend Developer: [Siti Mutiah](https://github.com/smutiah48/Project_MDS6) (G1501231027)
-- Backend Developer: [Rizka Yulianti](https://github.com/riskaayulian17) (G1501231058)
+- Backend Developer: [Riska Yulianti](https://github.com/riskaayulian17) (G1501231058)
 - Technical Writer: [Meisyatul Ilma](https://github.com/meisyatulilma) (G1501231073)
 - Database Manager: [Abd. Rahman](https://github.com/ibnuysf) (G1501231055)
