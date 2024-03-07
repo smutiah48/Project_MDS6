@@ -44,7 +44,7 @@ Berikut merupakan link untuk shinnyapps atau dashboard dari project kami:
 
 ## :📚 Dokumentasi 
 
-Dokumentasi penggunaan aplikasi database. ..........
+Dokumentasi penggunaan aplikasi database. Anda dapat juga membuat dokumentasi lives menggunakan readthedocs.org (opsional).
 
 ## :❗ Requirements
 
