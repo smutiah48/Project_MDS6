@@ -167,7 +167,22 @@ select * from buku
 ## 📁 Struktur Folder
 
 ```
-
+.
+├── app           # ShinyApps
+│   ├── css
+│   │   ├── **/*.css
+│   ├── server.R
+│   └── ui.R
+├── data 
+│   ├── csv
+│   │   ├── **/*.css
+│   └── sql
+|       └── db.sql
+├── src           # Project source code
+├── doc           # Doc for the project
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ## 👨‍💻 Tim Pengembang
