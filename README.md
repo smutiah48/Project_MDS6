@@ -68,7 +68,7 @@ Selanjutnya, entitas penulis terdapat dua atribut yang berhubungan dengan atribu
 Selain itu, entitas penerbit terdiri dari dua atribut yang berhubungan yaitu id_penerbit dengan atribut penulis dan buku. Untuk entitas kategori saling berhubungan pada entitas buku yaitu atribut id_kategori.
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/smutiah48/Project_MDS6/blob/main/ERD%20Elit.png">
+  <img width="600" height="400" src="https://github.com/smutiah48/Project_MDS6/blob/main/scr/ERD%20Elit.png">
 </p>
 
 ## 📋 Deskripsi Data
