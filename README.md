@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# ELIT (Electronic Literartur)
+# ELIT (Electronic Literatur)
 
 [Tentang](#scroll-tentang)
 •
