@@ -48,7 +48,7 @@ Dokumentasi penggunaan aplikasi database. Anda dapat juga membuat dokumentasi li
 
 ## :❗ Requirements
 
-- Scrapping data menggunakan package R yaitu `rvest` dengan pendukung package lainnya seperti `tidyverse`,`rio`,`kableExtra` dan `stingr`. Tetapi, dalam hal ini kami menggunakan python dalam menggali informasi berupa data buku berasal dari APIkey platform untuk lebih detailnya silahkan kunjungo `code` 
+- Scrapping data menggunakan Python yaitu `parsel` dengan pendukung package lainnya seperti `selector`,`requests`,`json` dan `re`.Dalam hal ini kami menggunakan python dalam menggali informasi berupa data buku berasal dari APIkey platform untuk lebih detailnya silahkan kunjungo `code` 
 - RDBMS yang digunakan adalah PostgreSQL dan ElephantSQL
 - Dashboard menggunakan `shinny`, `shinnythemes`, `bs4Dash`, `DT`, dan `dplyr` dari package R
 
