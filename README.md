@@ -40,7 +40,7 @@ Project akhir mata kuliah Manajemen Data Statistika mengambil topik tentang buku
 ## 🎬 Demo
 
 Berikut merupakan link untuk shinnyapps atau dashboard dari project kami:
-https://mdselompok6.shinyapps.io/kelompok6mds/
+https://mdselompok6.shinyapps.io/Dashbordmds6/
 
 ## :📚 Dokumentasi 
 
